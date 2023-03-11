@@ -19,7 +19,7 @@ Check Previous Videos to make sense of this implementation:
 
 
 Keep learning , Keep improving 
-//atik
+//a
 
 aws deploy push --application-name "${CODE_DEPLOY_APPLICATION_NAME}" --s3-location "s3://${CODE_DEPLOY_S3_BUCKET}/codedeploydemo/app.zip" --ignore-hidden-files --region us-west-2
 
